@@ -1,32 +1,31 @@
-Massively by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+👋 Welcome to My Portfolio!
 
+Hi! I'm Sowmiya Velusamy, and this is my professional portfolio showcasing my work as a Gen AI Engineer, Data Analyst and Business Intelligence professional.
 
-This is Massively, a text-heavy, article-oriented design built around a huge background
-image (with a new parallax implementation I'm testing) and scroll effects (powered by
-Scrollex). A *slight* departure from all the one-pagers I've been doing lately, but one
-that fulfills a few user requests and makes use of some new techniques I've been wanting
-to try out. Enjoy it :)
+🌐 Live Portfolio
+Visit my portfolio here: https://sowmiyavs31.github.io/portfolio/
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
+💼 About Me
+- Master of Business and Science (MBS) - Data Analytics & AI @ Rutgers University
+- Data Warehousing TA @ Rutgers University
+- AI Engineering Intern @ MARV Capital
+- Ex-IBM & Capgemini
 
-(* = not included)
+🎯 What You'll Find
+- Featured Projects in Data Analytics, Generative AI, and Full-Stack Development
+- Skills in Python, SQL, Tableau, A/B Testing, and more
+- My professional journey and experience
+- Contact information to connect with me
 
-AJ
-aj@lkn.io | @ajlkn
+🚀 Technologies Used
+This portfolio is built using HTML5 UP's Massively template, customized to showcase my projects and skills.
 
+📧 Let's Connect!
+Feel free to reach out if you'd like to collaborate or discuss opportunities.
 
-Credits:
+LinkedIn: https://www.linkedin.com/in/sowmiya-vs/
+GitHub: https://github.com/SowmiyaVS31
+Email: sowmiya.sign@gmail.com
 
-	Demo Images:
-		Unsplash (unsplash.com)
-
-	Icons:
-		Font Awesome (fontawesome.io)
-
-	Other:
-		jQuery (jquery.com)
-		Scrollex (github.com/ajlkn/jquery.scrollex)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+---
+Credits: HTML5 UP (html5up.net) | Template: Massively
