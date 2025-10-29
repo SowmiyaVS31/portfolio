@@ -58,10 +58,17 @@
 						
 						/* Mobile responsiveness for intro section */
 						@media screen and (max-width: 768px) {
-							#intro {
-								padding: 4rem 1rem 2rem 1rem !important;
-								text-align: center !important;
-							}
+						    #intro {
+                                padding: 4.5rem 1rem 2rem 1rem !important;
+                                text-align: center !important;
+                                min-height: auto !important;
+                                justify-content: center !important;
+                            }
+
+                            /* Remove large negative pull-up of header under hero on mobile */
+                            #intro + #header { 
+                                margin-top: 0 !important; 
+                            }
 							
 							#intro h1 {
 								font-size: 2rem !important;
@@ -98,9 +105,11 @@
 						}
 						
 						@media screen and (max-width: 480px) {
-							#intro {
-								padding: 3rem 0.5rem 2rem 0.5rem !important;
-							}
+                            #intro {
+                                padding: 10rem 0.5rem 0.5rem 0.5rem !important;
+                                min-height: auto !important;
+                                justify-content: center !important;
+                            }
 							
 							#intro h1 {
 								font-size: 1.8rem !important;
@@ -154,7 +163,7 @@
 
 				<!-- Header -->
 					<header id="header">
-						<a href="index.html" class="logo">Sowmiya</a>
+						<a href="index.html" class="logo">PORTFOLIO</a>
 					</header>
 
 				<!-- Nav -->
